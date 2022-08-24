@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlutterBackend.Entities", "FlutterBackend.Entities\FlutterBackend.Entities.csproj", "{C43D4893-ECF3-4200-85B7-7390216E1D5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlutterBackend.DataAccess", "FlutterBackend.DataAccess\FlutterBackend.DataAccess.csproj", "{F86B945C-B348-41EA-8352-2924F3D33931}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlutterBackend.Business", "FlutterBackend.Business\FlutterBackend.Business.csproj", "{519AB201-6FC4-4E97-BF3A-1E2064F2E0FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlutterBackend.Api", "FlutterBackend.Api\FlutterBackend.Api.csproj", "{B7A05531-5651-4776-A184-04E0FCA564A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C43D4893-ECF3-4200-85B7-7390216E1D5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C43D4893-ECF3-4200-85B7-7390216E1D5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C43D4893-ECF3-4200-85B7-7390216E1D5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C43D4893-ECF3-4200-85B7-7390216E1D5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F86B945C-B348-41EA-8352-2924F3D33931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F86B945C-B348-41EA-8352-2924F3D33931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F86B945C-B348-41EA-8352-2924F3D33931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F86B945C-B348-41EA-8352-2924F3D33931}.Release|Any CPU.Build.0 = Release|Any CPU
+		{519AB201-6FC4-4E97-BF3A-1E2064F2E0FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{519AB201-6FC4-4E97-BF3A-1E2064F2E0FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{519AB201-6FC4-4E97-BF3A-1E2064F2E0FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{519AB201-6FC4-4E97-BF3A-1E2064F2E0FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7A05531-5651-4776-A184-04E0FCA564A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7A05531-5651-4776-A184-04E0FCA564A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7A05531-5651-4776-A184-04E0FCA564A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7A05531-5651-4776-A184-04E0FCA564A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24FA2ACF-396D-41E7-87D6-5DD578AA2EED}
+	EndGlobalSection
+EndGlobal
